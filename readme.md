@@ -25,4 +25,4 @@ CSV file is data obtained from API
 
 <img width="500" alt="" src="images/gmap_hum.png">
 
-<img width="500" alt="" src="lin_regTemperature (F).png">
+<img width="500" alt="" src="lin_regTemperature.png">
