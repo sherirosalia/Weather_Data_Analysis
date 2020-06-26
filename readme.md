@@ -20,9 +20,9 @@ Visualizations are in images folder.
 CSV file is data obtained from API
 
 ### Visualizations
-##
+
 <img width="500" alt="" src="images/temperature.png">
-##
+
 <img width="500" alt="" src="images/gmap_hum.png">
-##
+
 <img width="500" alt="" src="lin_regTemperature (F).png">
