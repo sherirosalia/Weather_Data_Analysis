@@ -6,7 +6,7 @@ Global temperatures, humidity, cloud cover percentages and windspeed readings gr
 This project utilizes the API from Open Weather along with Google maps to analyze global weather
 
 Some of the visualizations were used in this "sister" site: 
- <'https://sherirosalia.github.io/Visualization_Website/'>Link</a>
+ <a href='https://sherirosalia.github.io/Visualization_Website/'>Link</a>
 
 ### Frameworks and Dependencies
 Python Pandas
